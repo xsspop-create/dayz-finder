@@ -1,10 +1,11 @@
-const CACHE_NAME = 'class-finder-v1';
+const CACHE_NAME = 'class-finder-v2';
 const ASSETS = [
   'index.html',
   'style.css',
   'app.js',
   'manifest.json',
-  'logos e imagens/LOGO COM LEGENDA .png'
+  'logo.png',
+  'bg.png'
 ];
 
 self.addEventListener('install', (e) => {
