@@ -1,0 +1,17 @@
+{
+  "name": "DayZ Class Finder",
+  "short_name": "ClassFinder",
+  "description": "Buscador de classes e compatibilidade para DayZ",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#020617",
+  "theme_color": "#818cf8",
+  "icons": [
+    {
+      "src": "logos e imagens/LOGO COM LEGENDA .png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
